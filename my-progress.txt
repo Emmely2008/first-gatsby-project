@@ -1,0 +1,8 @@
+GATSBY getting started
+After node and git install gatsby:
+
+npm install -g gatsby-cli
+
+
+1:18:07
+https://www.youtube.com/watch?v=oAVhEPey_qA
